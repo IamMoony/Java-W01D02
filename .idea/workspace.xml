@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="529ae7cc-6a92-4103-ad01-18bb3b23ec1e" name="Default Changelist" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/Basic_A5.java" afterDir="false" />
+    <list default="true" id="13592f8f-81b3-4ea5-874a-fe807a1c45ec" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/Basic_A3c.java" afterDir="false" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,13 +19,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basic_A1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="36">
               <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basic_A2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -43,24 +37,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basic_A3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="34" column="29" lean-forward="true" selection-end-line="51" />
+            <state relative-caret-position="612">
+              <caret line="34" column="29" selection-end-line="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Basic_A5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Basic_A6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Basic_A5.java">
+        <entry file="file://$PROJECT_DIR$/src/Basic_A7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-=======
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Basic_A3c.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
+            <state relative-caret-position="183">
+              <caret line="16" column="98" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -74,23 +79,26 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>day</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/Basic_A1.java" />
-        <option value="$PROJECT_DIR$/src/Basic_A2.java" />
-        <option value="$PROJECT_DIR$/src/Basic_A5.java" />
+        <option value="$PROJECT_DIR$/src/Basic_A6.java" />
+        <option value="$PROJECT_DIR$/src/Basic_A7.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-12" />
-    <option name="width" value="1282" />
-    <option name="height" value="702" />
+    <option name="width" value="1280" />
+    <option name="height" value="700" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,37 +106,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-<<<<<<< HEAD
       <pane id="Scope" />
-=======
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Java-W01D02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-W01D02" type="462c0819:PsiDirectoryNode" />
+              <item name="W01D02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W01D02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Java-W01D02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java-W01D02" type="462c0819:PsiDirectoryNode" />
+              <item name="W01D02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W01D02" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="W01D02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W01D02" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="W01D02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W01D02" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="W01D02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="W01D02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-<<<<<<< HEAD
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557232500699" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,42 +157,25 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.Basic_A5">
-    <configuration name="Basic_A5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_A5" />
-=======
-  <component name="RunManager" selected="Application.Basic_A4">
-    <configuration name="Basic_A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_A4" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
+  <component name="RunManager" selected="Application.Basic_A7">
+    <configuration name="Basic_A6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic_A6" />
       <module name="W01D02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_A1" />
+    <configuration name="Basic_A7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic_A7" />
       <module name="W01D02" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.Basic_A4" />
-      <item itemvalue="Application.Main" />
-    </list>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-        <item itemvalue="Application.Basic_A5" />
-=======
-        <item itemvalue="Application.Basic_A4" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Basic_A7" />
+        <item itemvalue="Application.Basic_A6" />
       </list>
     </recent_temporary>
   </component>
@@ -186,44 +184,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="529ae7cc-6a92-4103-ad01-18bb3b23ec1e" name="Default Changelist" comment="" />
-      <created>1557218946315</created>
+      <changelist id="13592f8f-81b3-4ea5-874a-fe807a1c45ec" name="Default Changelist" comment="" />
+      <created>1557235934143</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1557218946315</updated>
+      <updated>1557235934143</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="0" y="-12" width="1280" height="700" extended-state="6" />
     <editor active="true" />
     <layout>
-<<<<<<< HEAD
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25769854" />
-=======
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2582996" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2617504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32792792" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32792792" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="9" />
-=======
-      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32962963" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32972974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -235,17 +225,13 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Basic_A2.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Basic_A1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="36">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Basic_A2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -255,21 +241,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Basic_A3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="34" column="29" lean-forward="true" selection-end-line="51" />
+        <state relative-caret-position="612">
+          <caret line="34" column="29" selection-end-line="51" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Basic_A5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-=======
-    <entry file="file://$PROJECT_DIR$/src/Basic_A3c.java">
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic_A6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
->>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
+        <state relative-caret-position="135">
+          <caret line="14" column="76" selection-start-line="14" selection-start-column="76" selection-end-line="14" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basic_A7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="16" column="98" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
         </state>
       </provider>
     </entry>
