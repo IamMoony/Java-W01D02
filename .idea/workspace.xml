@@ -58,8 +58,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-12" />
-    <option name="width" value="1281" />
-    <option name="height" value="701" />
+    <option name="width" value="1282" />
+    <option name="height" value="702" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -89,6 +89,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557232500699" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -103,9 +104,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Basic_A3c">
-    <configuration name="Basic_A3c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic_A3c" />
+  <component name="RunManager" selected="Application.Basic_A4">
+    <configuration name="Basic_A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic_A4" />
       <module name="W01D02" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -121,9 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Basic_A4" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Basic_A3c" />
+        <item itemvalue="Application.Basic_A4" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
