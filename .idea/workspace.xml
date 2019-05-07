@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="529ae7cc-6a92-4103-ad01-18bb3b23ec1e" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/Basic_A5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/Basic_A3c.java" afterDir="false" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,12 +24,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basic_A1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
+            <state relative-caret-position="34">
               <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Basic_A2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -49,6 +54,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
               <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Basic_A3c.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
             </state>
           </provider>
         </entry>
@@ -77,8 +89,8 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="-12" />
-    <option name="width" value="1280" />
-    <option name="height" value="700" />
+    <option name="width" value="1282" />
+    <option name="height" value="702" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -86,28 +98,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="W01D02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="W01D02" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-W01D02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-W01D02" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="W01D02" type="b2602c69:ProjectViewProjectNode" />
-              <item name="W01D02" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-W01D02" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-W01D02" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+<<<<<<< HEAD
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557232500699" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -122,9 +142,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.Basic_A5">
     <configuration name="Basic_A5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic_A5" />
+=======
+  <component name="RunManager" selected="Application.Basic_A4">
+    <configuration name="Basic_A4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic_A4" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
       <module name="W01D02" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,9 +166,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Basic_A4" />
+      <item itemvalue="Application.Main" />
+    </list>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.Basic_A5" />
+=======
+        <item itemvalue="Application.Basic_A4" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -161,9 +195,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-12" width="1280" height="700" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25769854" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2582996" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -179,7 +218,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Version Control" order="9" />
+=======
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32962963" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -192,13 +235,17 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Basic_A2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Basic_A1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="34">
           <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Basic_A2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -217,6 +264,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/Basic_A3c.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+>>>>>>> 829bd790eeb5a064d42d7a3fd3d2b25052e9233c
         </state>
       </provider>
     </entry>
